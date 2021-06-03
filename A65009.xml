@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Vindication of a sheet concerning the orders of the Church of England, against some reasons, &amp;c. printed at Oxford.</title>
+         </titleStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65009</idno><idno type="EEBO-CITATION">12159561</idno>
+  <idno type="VID">55259</idno>
+  <idno type="EEBO-PROQUEST">2240950487</idno>
+  
+            <idno type="STC">Wing V466</idno>
+            <idno type="STC">ESTC R16146</idno>
+            <idno type="OCLC">12159561</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A65009)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55259)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 902:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Vindication of a sheet concerning the orders of the Church of England, against some reasons, &amp;c. printed at Oxford.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Howell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Creeds.</term>
+               <term type="corporate_name">Church of England --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55259:1"/>
+            <pb facs="tcp:55259:1"/>
+            <p>A VINDICATION Of a Sheet, concerning the ORDERS OF THE <hi>Church of England,</hi> Against some REASONS, &amp;c.</p>
+            <p>Printed at <hi>OXFORD.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="imprimatur">
+                        <p>
+                           <hi>Imprimatur,</hi>
+                        </p>
+                        <p>A Vindication of a Sheet, <hi>&amp;c.</hi>
+                        </p>
+                        <closer>
+                           <dateline>
+                              <date>July 7. 1688.</date>
+                           </dateline>
+                           <signed>Guil. Needham.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Howell,</hi> Bookseller in <hi>Oxford.</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:55259:2"/>
+            <pb n="1" facs="tcp:55259:2"/>
+            <head>A VINDICATION, &amp;c.</head>
+            <p>SInce Popish Pamphlets of late have found so ill reception, and the dreadful Names of <hi>Henry Hills,</hi> and <hi>Henry Cruttenden,</hi> in the Title-page, have been a fair warning to the Reader not to ven<g ref="char:EOLhyphen"/>ture any farther, it has been thought convenient, lest the <hi>Works</hi> of this Author, which fill four whole Pa<g ref="char:EOLhyphen"/>ges, should perish, to try whether the World will condescend so far as to read them for the sake of the following Reflections. For tho' any consideration of so <hi>mean</hi> a Paper must be confest to require an Apo<g ref="char:EOLhyphen"/>logy, yet this being the Authors first attempt, and he giving some <hi>suspicion</hi> of sense in daring to Print his Trifle in <hi>Oxford,</hi> a few slight <hi>Remarks</hi> may upon these grounds be excusable: But for the future, unless he gives a cleaner <hi>Glove,</hi> he must not expect the Ho<g ref="char:EOLhyphen"/>nour of an <hi>Answer.</hi>
+            </p>
+            <p>I shall not enquire why our Author tacks his <hi>Some Reasons,</hi> to another Mans <hi>Twenty One Conclusions:</hi> The coherence of the matters treated of is not very apparent: This may be done, perhaps, out of a complaisant imitation of a <hi>Popish</hi> Syllogism, where the conclusion commonly scorns any acquaintance with the Premisses. As for the <hi>Rigorous Demonstra<g ref="char:EOLhyphen"/>tor,</hi> what he has offer'd at second hand <hi>in Confutation of Dr.</hi> Hammond, <hi>and Bishop</hi> Bramhal, has by them been long since consuted, and a just Reply might
+<pb n="2" facs="tcp:55259:3"/>from their Volumes be easily <hi>Reprinted,</hi> were it not an injustice to those Stationers who are owners of the Copies. But what at present I have in hand, is entirely new; the <hi>Design</hi> pretends to humour, the <hi>Folly</hi> is peculiar, and the <hi>Title</hi> fantastical.</p>
+            <p>"Some Reasons, <hi>&amp;c.</hi> Church of <hi>England.</hi>
+            </p>
+            <p>We expect a <hi>Reasoner,</hi> and meet with a <hi>Buffoon:</hi> He pretends to vindicate the <hi>Reverend licenser,</hi> who would sooner pardon him a <hi>Satyr,</hi> than an <hi>Apology.</hi> Had he been really <hi>traduc'd,</hi> if his weigh<g ref="char:EOLhyphen"/>tier Occasions, and greater Zeal for the Service of his Church than for his own Fame, had hinder'd him from defending himself, hundreds of Protestant Pens had been ambitious of the Employment; for <hi>Sense</hi> would be defended by <hi>Sense,</hi> and <hi>Learning</hi> disdains the Patronage of <hi>Ignorance.</hi> A Vindication of Father <hi>Sabran</hi> might have become <hi>this Author,</hi> and the brisk attack of <hi>the Protestant Footman</hi> has made it necessa<g ref="char:EOLhyphen"/>ry. But here a Bill is given out for <hi>Impartial Persons,</hi> to come and see a Combat betwixt a <hi>Jesuit</hi> and a <hi>Chi<g ref="char:EOLhyphen"/>maera;</hi> and an huge dust must be rais'd in a <hi>Vacuum</hi> be<g ref="char:EOLhyphen"/>twixt a <hi>Traducer,</hi> who is <hi>No-body,</hi> and a <hi>Defender,</hi> who says <hi>Nothing.</hi> This Author neither did perswade himself, nor could hope to perswade others, That Dr. <hi>Maurice</hi> was not the <hi>Licenser:</hi> Yet his <hi>Sincerity</hi> prompted him to <hi>insinuate,</hi> what he knew to be <hi>false,</hi> and his <hi>Prudence</hi> put him upon the <hi>attempt,</hi> of what he despair'd ever to effect.</p>
+            <p n="1">"§ 1. Dr. <hi>Maurice</hi> is not, <hi>&amp;c.</hi> as approv'd by Dr. <hi>Maurice.</hi>
+            </p>
+            <p n="1">1. Be it allow'd, that this Author after his Li<g ref="char:EOLhyphen"/>beral Education in a Foreign Seminary can count <hi>Six.</hi> 2. We own that <hi>it is false, that Schismaticks, or Here<g ref="char:EOLhyphen"/>ticks, cannot ordain,</hi> for Protestants have more than
+<pb n="3" facs="tcp:55259:3"/>once prov'd it to be so. But there are some Reasons, why a <hi>Roman Catholick</hi> ought not to have branded this as a <hi>notorious falshood.</hi>
+               <note n="(a)" place="margin">Solet quaeri, si Heretici ab Ecclesia precisi &amp; damnati possint tradere sacros Ordines, &amp; si ab eis ordinati redeuntes ad Ecclesiae uni<g ref="char:EOLhyphen"/>tatem, debeant reordinari. <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> questionem perplexam ac pene in<g ref="char:EOLhyphen"/>solubilem faciunt Doctorum ver<g ref="char:EOLhyphen"/>ba, qui plurimùm dissentire viden<g ref="char:EOLhyphen"/>tur. <hi>Lomb. l</hi> 4. <hi>Pist.</hi> 28.</note>
+               <hi>Peter Lombard</hi> sound the Doctors to be divided about it; he acknow<g ref="char:EOLhyphen"/>ledges the Question to be intricate, and leaves it undecided. It is to <hi>Protestants</hi> one Argument of its being a <hi>notorious fals<g ref="char:EOLhyphen"/>hood,</hi> that some<note n="(b)" place="margin">
+                  <hi>So</hi> Innocent <hi>the 1st.</hi> Non videtur Clericos eorum (Arianorum) cum Sacerdotii aut Ministerii cujuf<g ref="char:EOLhyphen"/>piam suscipi debere dignitate, quoniam quibus solum Baptismum ratum esse permittimus. <hi>Ep. 18. apud Bin. Tom. 1. p. 580.</hi> Asseritur eum qui honorem amisit, honorem dare non posse, nec eum aliquid accepisse, quia nihil in dante erat, quod ille possit ac<g ref="char:EOLhyphen"/>cipere. <hi>Ep. 22. ibid. p. 581. So again</hi> John <hi>the 12th. forc'd them who were ordain'd by</hi> Leo <hi>the 8th. a Schismatical Anti-pope, to say,</hi> Pater meus nihil habuit sibi, nihil mi<g ref="char:EOLhyphen"/>hi dedit. <hi>Bin. Tom. 3. p. 1066.</hi> So Nicholas <hi>the 1st.</hi> Gregorius qui Canonice ac Synodice depositus, atque Anathematizatus erat, quem ad mo<g ref="char:EOLhyphen"/>dum possit provetiere vel benedicere nul<g ref="char:EOLhyphen"/>la ratio docet: Igitur nihil Photius a Gregorio accepit, nisi quantum Gre<g ref="char:EOLhyphen"/>gorius habuit, nihil autem habuit, nihil dedit. Per eorum quippe ut legitur, manus impositione, &amp; invocationem dabatur Spiritus Sanctus, qui noverant mundas ad Deminum manus levare; laeterum Gregorius, qui transgressor, factus est Legis ad iracundiam sui, magis quam ad consecrationem alicujus Spi<g ref="char:EOLhyphen"/>ritum sanctum per impositionem suae manus sine dubio provocavit, <hi>&amp;c. Bin. Tom. 3. p. 698, 699. Ed. Col. Agrip. 1606.</hi>
+               </note>
+               <hi>Popes</hi> have asserted it; but a <hi>Jesuit</hi> ought not to have given the flat lie to <hi>Infallibility.</hi> 3. If now <hi>it be false, that Papists ar<g ref="char:EOLhyphen"/>gue from the Schism or He<g ref="char:EOLhyphen"/>resie of the Ordainers, that the power of conferring Or<g ref="char:EOLhyphen"/>ders is null,</hi> it must be al<g ref="char:EOLhyphen"/>low'd us that a great part of <hi>Lombards</hi> Doctors, and the fore-cited <hi>Popes</hi> were no Papists. 4. The Read<g ref="char:EOLhyphen"/>er will by this time judge to whom the <hi>weakness, il<g ref="char:EOLhyphen"/>literateness, forgery, fals<g ref="char:EOLhyphen"/>hood,</hi> and the <hi>hard fore<g ref="char:EOLhyphen"/>head,</hi> which we meet
+<pb n="4" facs="tcp:55259:4"/>with in this Paragraph do of right belong.</p>
+            <p n="2">"§ 2. Dr. <hi>Maurice</hi> knows, &amp;c. responsible for any such.</p>
+            <p n="1">1. <hi>Lambeth Ordination</hi> depends not on the Vera<g ref="char:EOLhyphen"/>city of Dr. <hi>Parker,</hi> but on Authentick Registers, upon the sight of which the more<note n="(c)" place="margin">Bishop <hi>Bram<g ref="char:EOLhyphen"/>hal</hi>'s Consecr. of Prot. Bishops vindicated. <hi>Tom.</hi> 1. <hi>Disc.</hi> 5. <hi>p.</hi> 460. 461. <hi>Dubl.</hi>
+               </note>
+               <hi>Ingenious</hi> Pa<g ref="char:EOLhyphen"/>pists have confest themselves satis<g ref="char:EOLhyphen"/>fied. 2. If one of his Society, in a good Cause, may tell us <hi>He has heard</hi> what he never heard, and a Popish assurance has often <hi>pre<g ref="char:EOLhyphen"/>tended to prove,</hi> that never cou'd be prov'd, then this <hi>hearsay of a pretence of a proof</hi> is but a weak foundation for so severe a charge on the Memory of that Venerable <hi>primate: Pope</hi> I would have call'd him, but that that N me has been abus'd. 3. To prove that Dr. <hi>Parker</hi> was a corrupter of Records, will require more Industry than he allow'd to this Paper, and will not be perform'd as he bragg'd this was <hi>at one sitting:</hi> But after all, it will remain to be prov'd that He corrupted this particular Record of the <hi>Lambeth Consecration,</hi> and here he will meet with Antagonists of his own Fraternity, who will have these Records to be forc'd several Years after <hi>Parkers</hi> death, and first produc'd by Mr. <hi>Mason:</hi> And here it may be no ill Advice to the <hi>Fathers</hi> to lay their Heads together, and to <hi>agree</hi> upon a false Verdict. 4. Our Primates leave the glory of <hi>forging Records</hi> to that Bishop, who, not content with his Diocess, would by these means extend his <hi>Ʋsurp'd Jurisdiction:</hi> The ill success which the spurious Canon of <hi>Nice,</hi> and <hi>Constantine</hi>'s donation have found, would deter Men of Conduct, tho' they had no sense of Religion from such vile and Popish practices. 5. If <hi>four</hi> true Bishops
+<pb n="5" facs="tcp:55259:4"/>be more than <hi>three,</hi> it has often been made out that Bishop <hi>Parker</hi>'s Ordainers were <hi>more than three true Bishops:</hi> The Acts of his Consecration prove them to have been 4 in number; and the <hi>truth</hi> of their respe<g ref="char:EOLhyphen"/>ctive Orders is evident from other Records, which have been produc'd. 6. Dr. <hi>Maurice</hi> finds <hi>in the Ar<g ref="char:EOLhyphen"/>chives of Canterbury</hi> the Record for which the Mini<g ref="char:EOLhyphen"/>ster makes himself responsible; and when this Au<g ref="char:EOLhyphen"/>thor can bring Certificates for his Honesty, I doubt not but he may be indulg'd a sight of the <hi>Originals:</hi> That Copies of these Acts, both from the <hi>Register at Lambeth,</hi> and from the Memoire of <hi>Corpus-Christi-College</hi> in <hi>Cambridge,</hi> are in all hands; he in all pro<g ref="char:EOLhyphen"/>bability might have <hi>known,</hi> had he not to his <hi>other vows</hi> added that of <hi>Ignorance.</hi> 7. Our Author has promis'd upon this to be an <hi>Eternal Mute;</hi> and if he takes <hi>Sweden</hi> in his way to <hi>Turky,</hi> he will by that time qualifie himself for an Office in the <hi>Serail.</hi>
+            </p>
+            <p n="3">"§ 3. All know, <hi>&amp;c.</hi> prov'd at all.</p>
+            <p n="1">1. The Protestant <hi>have</hi> Succession in Doctrine, tho' the <hi>Arrians</hi> had it not. The Papists say our Plea is no better than theirs; but are content <hi>barely</hi> to say so. When he shall produce as good Authority from Scripture, and as Universal a Tradition from the Fathers for the Articles of the <hi>Trent-Council,</hi> as the Reverend and Learned Dr. <hi>Bull</hi> has shewn us in favour of the Orthodox against the <hi>Arrians,</hi> we'll ad<g ref="char:EOLhyphen"/>mit the Comparison: In the mean time <hi>Nice</hi> and <hi>Trent</hi> do not sound well in one Period: There a <hi>Christian</hi> Emperor presided, here an <hi>Anti-Christian</hi> Pope: There the <hi>Canonical Priviledges</hi> of Patriarchs were asserted; here the <hi>Divine Right</hi> of Episcopacy was trampled on by an upstart Order: There the Holy-Ghost was call'd down by Prayers; here the
+<pb n="6" facs="tcp:55259:5"/>
+               <hi>Roman Catholicks</hi> observ'd it was dispatch'd to the Con<g ref="char:EOLhyphen"/>venticle in a Cloak-bag. 2. The distinction betwixt <hi>Succession of Doctrine,</hi> and <hi>of Persons,</hi> was in this dis<g ref="char:EOLhyphen"/>pute necessary, but the latter only was to be insisted on: That we have <hi>Succession of Doctrine</hi> may at this time be <hi>boldly said,</hi> since it has been so often <hi>vigo<g ref="char:EOLhyphen"/>rously prov'd.</hi>
+            </p>
+            <p n="4">"§ 4. If then it be uncertain <hi>&amp;c.</hi> which doth so.</p>
+            <p n="1">1. Whether the C. of <hi>England,</hi> pretend to a <hi>Personal Infallibility,</hi> or not, we are ready to prove there sits much as Infallibility at <hi>Lambeth,</hi> as at <hi>Rome,</hi> and that the more valuable, because it resides in one that can read <hi>Latin.</hi> 2. As for the Succession of our Bishops to the Reformation, He is as much concern'd in it, as We: As for the continuance of it thence down-wards I send him to Mr. <hi>Mason</hi> for satisfaction. 3. Since he is inquisitive concerning the <hi>foundation</hi> of our Church, he may know that our Church is <hi>Founded</hi> on a Rock, and that Rock is Christ. 4. The Minister doth not say, it is not necessary to prove <hi>a succession of Persons,</hi> but gives reasons, why it is not necessary to shew a compleat Catalogue of the particular Successors. The Paragraphs, wherein these Reasons are given, are pass'd over by the Author, because there are <hi>hard words</hi> in them. <hi>Thessalonica</hi> and <hi>Ephesus</hi> are places He is a Stranger to; but sure by his <hi>Complexion</hi> he has some Relation to <hi>Corinth. Cletus</hi> and <hi>Anacle<g ref="char:EOLhyphen"/>tus</hi> he might have took notice of, because it was ob<g ref="char:EOLhyphen"/>serv'd, that these <hi>two</hi> make up <hi>one</hi> of his <hi>Popes.</hi> 5. <hi>Prove</hi> and <hi>approve</hi> in <hi>Italian</hi> Characters shew that his Talent doth not lye so much towards <hi>crabbed History,</hi> as <hi>sheer Wit.</hi>
+            </p>
+            <p n="5">"§ 5. If these <hi>Western</hi> Fathers <hi>&amp;c.</hi> expose his Ch.</p>
+            <p n="1">1. The <hi>Western</hi> Fathers prov'd innovation up<g ref="char:EOLhyphen"/>on
+<pb n="7" facs="tcp:55259:5"/>Hereticks, because they wanted true Succession both of Doctrine, and Persons. Their Plea of <hi>Succession of Doctrine,</hi> excus'd them not, because not prov'd. When the Fathers charg'd them with want of Succession of Persons, they did not take advantage from the loss or defect of Records, but from their never having had a line of Bishops to be record<g ref="char:EOLhyphen"/>ed. They requir'd the proof of <hi>a Personal Succession,</hi> which we have; they did not exact <hi>Compleat Catalogues,</hi> which <hi>the Mini<g ref="char:EOLhyphen"/>ster</hi> has prov'd unnecessary, and which yet we are as able to shew as any Church in <hi>Christendom.</hi> 2. That this Reve<g ref="char:EOLhyphen"/>rend Minister doth not in a Sheet Printed for the use of his Parish trouble the Heads of his Parishoners with a Catalogue of Names, gives no just Occasion to any Papist to think that our Succession cannot be made out; That it <hi>can</hi> be done, We have one good Argument that it has been done; and this our Author, if he had not been a <hi>Yesterday-Man</hi> in Books, cou'd not have been ignorant of. Even the <hi>Catholick-Alma<g ref="char:EOLhyphen"/>nack</hi> it self deduces our Arch-Bishops of <hi>Canterbury</hi> from <hi>Austin</hi> to <hi>Warham: Cranmer</hi> indeed is left out, as if his sup<g ref="char:EOLhyphen"/>pos'd Heresie or Schism could <hi>blot</hi> out the <hi>indelible</hi> Cha<g ref="char:EOLhyphen"/>racter. What tho' he finds no Bishops there since the Refor<g ref="char:EOLhyphen"/>mation? Neither will he find any Princes there since <hi>Henry</hi> the 8th. An <hi>Index expurgatorius</hi> has past upon the <hi>Royal</hi> Line, as well as the <hi>Episcopal.</hi> Even Q. <hi>Mary</hi> could not me<g ref="char:EOLhyphen"/>rit a place in this Catalogue, tho' <hi>Cranmer's</hi> Memory is Sa<g ref="char:EOLhyphen"/>crific'd as his Person was heretofore, to make room for <hi>Pole,</hi> her Contemporary. Protestant-Calendars bring down the <hi>Regal Table</hi> to K. <hi>James,</hi> the 2d. and honestly conclude with a <hi>God grant him long to Reign;</hi> but the Printer to the King's most Excellent Majesty, forgets his Royal Master, and his glorious Progenitors, as he would have done the late King, if he had Printed an Almanack before sixty.</p>
+            <p n="6">"§ 6. He approves not that Aphorism, <hi>&amp;c.</hi> Dr. <hi>Maurice</hi> did.</p>
+            <p n="1">
+               <pb n="8" facs="tcp:55259:6"/> 1. He diverts himself here with a <hi>pitiful sophism</hi> upon the word <hi>power,</hi> which He will needs take in another sense than it was meant. Neither yet doth his bantering elude the force of the Minister's Argument: For still an <hi>unordained</hi> may as well <hi>ordain,</hi> as an <hi>unbaptiz'd</hi> may <hi>Baptize;</hi> and if Orders are not the power of Ordaining (as 'tis agreed Sacer<g ref="char:EOLhyphen"/>dotal Orders are not) then according to him, one not or<g ref="char:EOLhyphen"/>dain'd, may have the Power of Ordaining, and if he exer<g ref="char:EOLhyphen"/>cises this power, He doth not confer a Power on another, which he has not himself. 2. None but a malicious Inter<g ref="char:EOLhyphen"/>preter could find any such <hi>Innuendo</hi> as he pretends to <hi>fear</hi> in the Minister's Argument: The Papists are so impudent as to tell us, we had our Orders from <hi>Laymen;</hi> and we, whom <hi>Solomon</hi> advises <hi>to answer Fools according to their Folly,</hi> shew that this Objection tho' it cou'd be prov'd, ought not ac<g ref="char:EOLhyphen"/>cording to their own Principles to be insisted on. 3. He that saith that Mr. <hi>Savage</hi> allows that our Bishops had their Orders from <hi>Laymen,</hi> must himself allow, if he knows the design of Mr. <hi>Savage's</hi> Book, that Popish Bishops are Lay<g ref="char:EOLhyphen"/>men. 4. As for the <hi>Novelty</hi> of our Church, tho' we should grant it to be no Ancienter than the Reformation, yet still it must be own'd that Q. <hi>Elizabeth</hi> liv'd before the Bishop of <hi>Condom.</hi>
+            </p>
+            <p n="7">"§ 7. He says that Christ, <hi>&amp;c.</hi> saying he did not.</p>
+            <p n="1">1. When the Question is concerning an Institution of our Saviour, he that holds there was such an one must prove it. It is Argument enough to us who hold the Negative, that there is no such Institution to be found in Scripture. 2. Christ Instituted no Form of Words as absolutely necessary; those which he us'd in the Mission of the Apostles we think the fittest, and therefore as such, use them in our Ordinations: But for that Form which the Ch. of <hi>Rome</hi> uses, there is no shadow of proof in Scripture, or An<g ref="char:EOLhyphen"/>tiquity. 3. The <hi>delivery of the Vessels</hi> is so far from being
+<pb n="9" facs="tcp:55259:6"/>instituted by Christ, that it is by the Romanists<note n="(d)" place="margin">By <hi>Morinus,</hi> and <hi>Arcudius,</hi> in his 6th Book <hi>De concor<g ref="char:EOLhyphen"/>dia, &amp;c.</hi> which 6th Book is approv'd by <hi>Eud. Johannes de Soc. Jes. Ed. Par.</hi> 1626.</note> them<g ref="char:EOLhyphen"/>selves, acknowledg'd a Novelty. 4. If he <hi>wants to meet a Man,</hi> who would evidently prove to him that Christ gave no power to offer Sacrifice, for the Quick and the Dead, I know none who has manag'd this Cause more for the Protestants advantage, than the inspir'd Writer of the Epistle to the <hi>Hebrews.</hi>
+            </p>
+            <p n="8">"§ 8. The Title says he, <hi>&amp;c.</hi> concern'd in it.</p>
+            <p n="1">1. A candid Reader who wou'd have weigh'd <hi>Arguments,</hi> and not cavill'd at <hi>words,</hi> would have easily understood the Ministers meaning, when he calls <hi>Imposition of Hands,</hi> that Form which the Apostolical Church us'd in giving Orders. It is palpable he could not mean a <hi>Form of words,</hi> but only a <hi>Rite</hi> of Ordination. The Objection was, That we had no true <hi>Form of Orders:</hi> The Answer is, That by <hi>Form,</hi> is ei<g ref="char:EOLhyphen"/>ther meant first a <hi>Form of words,</hi> and of that it is said that Christ Instituted none; or secondly, some <hi>Rites us'd in Or<g ref="char:EOLhyphen"/>dination,</hi> and of those it is shew'd that We use that which was us'd by the Apostles, by Antiquity, and by the Greek Churches. 2. Tho' this Reverend <hi>Minister</hi> is also an able <hi>Divine,</hi> yet he ought not to build upon such Consequences. May not a Man be an <hi>Italian Bishop,</hi> who is nothing else but a bad <hi>Canonist?</hi> May not a <hi>Cardinal</hi> domineer over Arch-bishops and Patriarchs, tho' he be no more than a School-boy? Was<note n="(e)" place="margin">Journal of Mr. <hi>de St. Amour.</hi> p. 120. <hi>Lond.</hi> 1664.</note>
+               <hi>Innocent the 10th</hi> no Pope, because when the <hi>Jan<g ref="char:EOLhyphen"/>fenists</hi> brought their Controversie to him, he diverted the discoursing of it with say<g ref="char:EOLhyphen"/>ing, <hi>It is none of my Profession, I am Old, I have never studied Divinity.</hi> 3. His Latin Scrap may be counted <hi>Learning</hi> in a <hi>Papist,</hi> but we <hi>Protestants</hi> look upon it as <hi>Pedantry. Risum teneatis Theologi</hi> might have serv'd for the end of an <hi>Hexameter</hi> at the <hi>Savoy;</hi> but at Dr. <hi>Teni<g ref="char:EOLhyphen"/>sons</hi> School a Boy would be whipp'd for it. When he was picking a Flower out of <hi>Horace,</hi> I am glad he did not light
+<pb n="10" facs="tcp:55259:7"/>upon the <hi>cervicem equinam;</hi> it had been the best Authority was ever yet urg'd for the Story of the <hi>Nags head. Humano capiti</hi> squints suspiciously upon <hi>Parker: Jungere si velit</hi> shews as evidently that <hi>Scory</hi> laid a Book on his Shoulders: <hi>Risum teneatis</hi> argues they went to be merry, and <hi>Specta<g ref="char:EOLhyphen"/>tum admissii</hi> is <hi>Neal</hi> spying all through the Key-hole.</p>
+            <p n="9">"§ 9. His Answer <hi>&amp;c.</hi> near approves this.</p>
+            <p n="1">1. It has been shew'd that the third Objection was Po<g ref="char:EOLhyphen"/>pish; and therefore the Minister's Answer to it was perti<g ref="char:EOLhyphen"/>nent. 2. As for the <hi>Second Innuendo</hi> the supposal of any such thing before was <hi>nonsense,</hi> and here is <hi>nauseous.</hi> 3. That Ordination of Hereticks should be <hi>valid,</hi> and yet <hi>not sufficient,</hi> is no Contradiction: It may be <hi>vaild</hi> to <hi>one end, not sufficient to another; vaild</hi> of it self to make a Successi<g ref="char:EOLhyphen"/>on of Bishops, <hi>not sufficient</hi> without Succession of Doctrine, to make a Church Orthodox. Thus Admission into the Order of <hi>Ignatius</hi> makes a <hi>valid</hi> Jesuit, but without the Doctrines of Equivocation, and King-killing he will still be <hi>Heterodox.</hi> 4. If this Gentleman will, as he is obliged in Charity to us Hereticks read the 6th Book of <hi>Thomas a Jesu de propaganda omnium gentium salute,</hi> He will have Occasion for another sort of Exclamation, us'd by a sort of Mortals, who in a surprize cry, <hi>Who would have thought it?</hi>
+            </p>
+            <p n="10">"§ 10. I conclude then, <hi>&amp;c.</hi> allow me to believe.</p>
+            <p n="1">1. To this whole Paragraph I answer; first, That the <hi>Man</hi> is Whimsical. 2 My Opinion of the <hi>Nags-head</hi> Ta<g ref="char:EOLhyphen"/>vern I have told him above, and have given him an Au<g ref="char:EOLhyphen"/>thority for it, which will pass in <hi>Spain,</hi> where 'tis believ'd that Protestants are Hairy, and go upon all four. 3 The <hi>Doctrine of Intention</hi> he leaves undefended, and pursues a <hi>Fagary</hi> of his own. 4. Did I believe this Doctrine, tho' I were a <hi>Roman Catholick,</hi> I should be afraid to <hi>adore</hi> where this Man <hi>Consecrates,</hi> who has given us a shrewd suspicion by the Management of this Sheet that it is difficult for him in any thing to be intent.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:55259:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
